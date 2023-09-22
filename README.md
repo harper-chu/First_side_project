@@ -1,5 +1,5 @@
 # First_side_project
-What:
+What:  
 想讓做出自己所希望的投資組合變簡單，既能符合自己所希望的組合樣態又能夠透過模型配置達到最好的資產分配  
 Why:  
 in order to increase the profits of portfolio   
